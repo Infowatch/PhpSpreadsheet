@@ -26,6 +26,7 @@ abstract class Coordinate
      * @param string $pCoordinateString eg: 'A1'
      *
      * @return string[] Array containing column and row (indexes 0 and 1)
+     * @throws Exception
      */
     public static function coordinateFromString($pCoordinateString)
     {
@@ -294,6 +295,7 @@ abstract class Coordinate
     public static function stringFromColumnIndex($columnIndex)
     {
         static $indexCache = [];
+        $columnIndex = (int)$columnIndex;
 
         if (!isset($indexCache[$columnIndex])) {
             $indexValue = $columnIndex;
