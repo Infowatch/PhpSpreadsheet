@@ -1326,7 +1326,7 @@ class Chart extends WriterPart
         $objWriter->writeAttribute('val', (string) $plotSeriesLabel->getPointCount());
         $objWriter->endElement();
 
-        foreach ($plotSeriesLabel->getDataValues() as $plotLabelKey => $plotLabelValue) {
+        foreach ((array)$plotSeriesLabel->getDataValues() as $plotLabelKey => $plotLabelValue) {
             $objWriter->startElement('c:pt');
             $objWriter->writeAttribute('idx', $plotLabelKey);
 

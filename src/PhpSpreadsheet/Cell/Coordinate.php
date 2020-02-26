@@ -326,6 +326,7 @@ abstract class Coordinate
     {
         static $indexCache = [];
         static $lookupCache = ' ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+        $columnIndex = (int)$columnIndex;
 
         if (!isset($indexCache[$columnIndex])) {
             $indexValue = $columnIndex;
