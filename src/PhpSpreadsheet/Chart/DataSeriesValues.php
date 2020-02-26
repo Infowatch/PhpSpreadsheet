@@ -407,7 +407,7 @@ class DataSeriesValues extends Properties
      */
     public function isMultiLevelSeries()
     {
-        if (!empty($this->dataValues)) {
+        if (!empty($this->dataValues) && isset($this->dataValues[0])) {
             return is_array(array_values($this->dataValues)[0]);
         }
 
