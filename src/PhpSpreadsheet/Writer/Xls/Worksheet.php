@@ -3993,44 +3993,8 @@ class Worksheet extends BIFFwriter
                     $colorIdxBg = 0x1F;
 
                     break;
-                case '000080':
-                    $colorIdxBg = 0x20;
-
-                    break;
-                case 'FF00FF':
-                    $colorIdxBg = 0x21;
-
-                    break;
-                case 'FFFF00':
-                    $colorIdxBg = 0x22;
-
-                    break;
-                case '00FFFF':
-                    $colorIdxBg = 0x23;
-
-                    break;
-                case '800080':
-                    $colorIdxBg = 0x24;
-
-                    break;
-                case '800000':
-                    $colorIdxBg = 0x25;
-
-                    break;
-                case '008080':
-                    $colorIdxBg = 0x26;
-
-                    break;
-                case '0000FF':
-                    $colorIdxBg = 0x27;
-
-                    break;
                 case '00CCFF':
                     $colorIdxBg = 0x28;
-
-                    break;
-                case 'CCFFFF':
-                    $colorIdxBg = 0x29;
 
                     break;
                 case 'CCFFCC':
@@ -4107,10 +4071,6 @@ class Worksheet extends BIFFwriter
                     break;
                 case '993300':
                     $colorIdxBg = 0x3C;
-
-                    break;
-                case '993366':
-                    $colorIdxBg = 0x3D;
 
                     break;
                 case '333399':
@@ -4224,44 +4184,8 @@ class Worksheet extends BIFFwriter
                     $colorIdxFg = 0x1F;
 
                     break;
-                case '000080':
-                    $colorIdxFg = 0x20;
-
-                    break;
-                case 'FF00FF':
-                    $colorIdxFg = 0x21;
-
-                    break;
-                case 'FFFF00':
-                    $colorIdxFg = 0x22;
-
-                    break;
-                case '00FFFF':
-                    $colorIdxFg = 0x23;
-
-                    break;
-                case '800080':
-                    $colorIdxFg = 0x24;
-
-                    break;
-                case '800000':
-                    $colorIdxFg = 0x25;
-
-                    break;
-                case '008080':
-                    $colorIdxFg = 0x26;
-
-                    break;
-                case '0000FF':
-                    $colorIdxFg = 0x27;
-
-                    break;
                 case '00CCFF':
                     $colorIdxFg = 0x28;
-
-                    break;
-                case 'CCFFFF':
-                    $colorIdxFg = 0x29;
 
                     break;
                 case 'CCFFCC':
@@ -4338,10 +4262,6 @@ class Worksheet extends BIFFwriter
                     break;
                 case '993300':
                     $colorIdxFg = 0x3C;
-
-                    break;
-                case '993366':
-                    $colorIdxFg = 0x3D;
 
                     break;
                 case '333399':
