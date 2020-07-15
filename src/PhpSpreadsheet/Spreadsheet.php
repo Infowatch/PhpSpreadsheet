@@ -1582,7 +1582,7 @@ class Spreadsheet
      */
     public function setTabRatio($tabRatio): void
     {
-        if ($tabRatio >= 0 || $tabRatio <= 1000) {
+        if ($tabRatio >= 0 && $tabRatio <= 1000) {
             $this->tabRatio = (int) $tabRatio;
         } else {
             throw new Exception('Tab ratio must be between 0 and 1000.');
