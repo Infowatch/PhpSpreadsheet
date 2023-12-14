@@ -10686,6 +10686,11 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/PhpOffice-PhpSpreadsheet-Chart-Axis.html#method_getNoFill"
         },                {
+            "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Chart\\Axis\u003A\u003A__clone\u0028\u0029",
+            "name": "__clone",
+            "summary": "Implement\u0020PHP\u0020__clone\u0020to\u0020create\u0020a\u0020deep\u0020clone,\u0020not\u0020just\u0020a\u0020shallow\u0020copy.",
+            "url": "classes/PhpOffice-PhpSpreadsheet-Chart-Axis.html#method___clone"
+        },                {
             "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Chart\\Axis\u003A\u003AAXIS_TYPE_CATEGORY",
             "name": "AXIS_TYPE_CATEGORY",
             "summary": "",
@@ -10800,6 +10805,11 @@ Search.appendIndex(
             "name": "setFont",
             "summary": "",
             "url": "classes/PhpOffice-PhpSpreadsheet-Chart-AxisText.html#method_setFont"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Chart\\AxisText\u003A\u003A__clone\u0028\u0029",
+            "name": "__clone",
+            "summary": "Implement\u0020PHP\u0020__clone\u0020to\u0020create\u0020a\u0020deep\u0020clone,\u0020not\u0020just\u0020a\u0020shallow\u0020copy.",
+            "url": "classes/PhpOffice-PhpSpreadsheet-Chart-AxisText.html#method___clone"
         },                {
             "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Chart\\AxisText\u003A\u003A\u0024rotation",
             "name": "rotation",
@@ -11175,6 +11185,11 @@ Search.appendIndex(
             "name": "getRenderedHeight",
             "summary": "",
             "url": "classes/PhpOffice-PhpSpreadsheet-Chart-Chart.html#method_getRenderedHeight"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Chart\\Chart\u003A\u003A__clone\u0028\u0029",
+            "name": "__clone",
+            "summary": "Implement\u0020PHP\u0020__clone\u0020to\u0020create\u0020a\u0020deep\u0020clone,\u0020not\u0020just\u0020a\u0020shallow\u0020copy.",
+            "url": "classes/PhpOffice-PhpSpreadsheet-Chart-Chart.html#method___clone"
         },                {
             "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Chart\\Chart\u003A\u003A\u0024name",
             "name": "name",
@@ -11560,6 +11575,11 @@ Search.appendIndex(
             "name": "refresh",
             "summary": "",
             "url": "classes/PhpOffice-PhpSpreadsheet-Chart-DataSeries.html#method_refresh"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Chart\\DataSeries\u003A\u003A__clone\u0028\u0029",
+            "name": "__clone",
+            "summary": "Implement\u0020PHP\u0020__clone\u0020to\u0020create\u0020a\u0020deep\u0020clone,\u0020not\u0020just\u0020a\u0020shallow\u0020copy.",
+            "url": "classes/PhpOffice-PhpSpreadsheet-Chart-DataSeries.html#method___clone"
         },                {
             "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Chart\\DataSeries\u003A\u003ATYPE_BARCHART",
             "name": "TYPE_BARCHART",
@@ -11971,6 +11991,11 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/PhpOffice-PhpSpreadsheet-Chart-DataSeriesValues.html#method_getTrendLines"
         },                {
+            "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Chart\\DataSeriesValues\u003A\u003A__clone\u0028\u0029",
+            "name": "__clone",
+            "summary": "Implement\u0020PHP\u0020__clone\u0020to\u0020create\u0020a\u0020deep\u0020clone,\u0020not\u0020just\u0020a\u0020shallow\u0020copy.",
+            "url": "classes/PhpOffice-PhpSpreadsheet-Chart-DataSeriesValues.html#method___clone"
+        },                {
             "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Chart\\DataSeriesValues\u003A\u003ADATASERIES_TYPE_STRING",
             "name": "DATASERIES_TYPE_STRING",
             "summary": "",
@@ -12301,6 +12326,11 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/PhpOffice-PhpSpreadsheet-Chart-Layout.html#method_setNumFmtLinked"
         },                {
+            "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Chart\\Layout\u003A\u003A__clone\u0028\u0029",
+            "name": "__clone",
+            "summary": "Implement\u0020PHP\u0020__clone\u0020to\u0020create\u0020a\u0020deep\u0020clone,\u0020not\u0020just\u0020a\u0020shallow\u0020copy.",
+            "url": "classes/PhpOffice-PhpSpreadsheet-Chart-Layout.html#method___clone"
+        },                {
             "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Chart\\Layout\u003A\u003A\u0024layoutTarget",
             "name": "layoutTarget",
             "summary": "layoutTarget.",
@@ -12475,6 +12505,11 @@ Search.appendIndex(
             "name": "setBorderLines",
             "summary": "",
             "url": "classes/PhpOffice-PhpSpreadsheet-Chart-Legend.html#method_setBorderLines"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Chart\\Legend\u003A\u003A__clone\u0028\u0029",
+            "name": "__clone",
+            "summary": "Implement\u0020PHP\u0020__clone\u0020to\u0020create\u0020a\u0020deep\u0020clone,\u0020not\u0020just\u0020a\u0020shallow\u0020copy.",
+            "url": "classes/PhpOffice-PhpSpreadsheet-Chart-Legend.html#method___clone"
         },                {
             "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Chart\\Legend\u003A\u003AXL_LEGEND_POSITION_BOTTOM",
             "name": "XL_LEGEND_POSITION_BOTTOM",
@@ -12665,6 +12700,11 @@ Search.appendIndex(
             "name": "setUseDownBars",
             "summary": "",
             "url": "classes/PhpOffice-PhpSpreadsheet-Chart-PlotArea.html#method_setUseDownBars"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Chart\\PlotArea\u003A\u003A__clone\u0028\u0029",
+            "name": "__clone",
+            "summary": "Implement\u0020PHP\u0020__clone\u0020to\u0020create\u0020a\u0020deep\u0020clone,\u0020not\u0020just\u0020a\u0020shallow\u0020copy.",
+            "url": "classes/PhpOffice-PhpSpreadsheet-Chart-PlotArea.html#method___clone"
         },                {
             "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Chart\\PlotArea\u003A\u003A\u0024noFill",
             "name": "noFill",
@@ -12925,6 +12965,11 @@ Search.appendIndex(
             "name": "getLineStyleArrowLength",
             "summary": "Get\u0020Line\u0020Style\u0020Arrow\u0020Excel\u0020Length.",
             "url": "classes/PhpOffice-PhpSpreadsheet-Chart-Properties.html#method_getLineStyleArrowLength"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Chart\\Properties\u003A\u003A__clone\u0028\u0029",
+            "name": "__clone",
+            "summary": "Implement\u0020PHP\u0020__clone\u0020to\u0020create\u0020a\u0020deep\u0020clone,\u0020not\u0020just\u0020a\u0020shallow\u0020copy.",
+            "url": "classes/PhpOffice-PhpSpreadsheet-Chart-Properties.html#method___clone"
         },                {
             "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Chart\\Properties\u003A\u003AEXCEL_COLOR_TYPE_STANDARD",
             "name": "EXCEL_COLOR_TYPE_STANDARD",
@@ -13725,6 +13770,11 @@ Search.appendIndex(
             "name": "setFont",
             "summary": "",
             "url": "classes/PhpOffice-PhpSpreadsheet-Chart-Title.html#method_setFont"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Chart\\Title\u003A\u003A__clone\u0028\u0029",
+            "name": "__clone",
+            "summary": "Implement\u0020PHP\u0020__clone\u0020to\u0020create\u0020a\u0020deep\u0020clone,\u0020not\u0020just\u0020a\u0020shallow\u0020copy.",
+            "url": "classes/PhpOffice-PhpSpreadsheet-Chart-Title.html#method___clone"
         },                {
             "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Chart\\Title\u003A\u003ATITLE_CELL_REFERENCE",
             "name": "TITLE_CELL_REFERENCE",
@@ -22641,16 +22691,6 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/PhpOffice-PhpSpreadsheet-Shared-Font.html"
         },                {
-            "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Shared\\Font\u003A\u003AsetExtraFontArray\u0028\u0029",
-            "name": "setExtraFontArray",
-            "summary": "",
-            "url": "classes/PhpOffice-PhpSpreadsheet-Shared-Font.html#method_setExtraFontArray"
-        },                {
-            "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Shared\\Font\u003A\u003AgetExtraFontArray\u0028\u0029",
-            "name": "getExtraFontArray",
-            "summary": "",
-            "url": "classes/PhpOffice-PhpSpreadsheet-Shared-Font.html#method_getExtraFontArray"
-        },                {
             "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Shared\\Font\u003A\u003AsetAutoSizeMethod\u0028\u0029",
             "name": "setAutoSizeMethod",
             "summary": "Set\u0020autoSize\u0020method.",
@@ -22670,16 +22710,6 @@ Search.appendIndex(
             "name": "getTrueTypeFontPath",
             "summary": "Get\u0020the\u0020path\u0020to\u0020the\u0020folder\u0020containing\u0020.ttf\u0020files.",
             "url": "classes/PhpOffice-PhpSpreadsheet-Shared-Font.html#method_getTrueTypeFontPath"
-        },                {
-            "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Shared\\Font\u003A\u003AsetPaddingAmountExact\u0028\u0029",
-            "name": "setPaddingAmountExact",
-            "summary": "Set\u0020pad\u0020amount\u0020for\u0020exact\u0020in\u0020pixels\u003B\u0020use\u0020best\u0020guess\u0020if\u0020null.",
-            "url": "classes/PhpOffice-PhpSpreadsheet-Shared-Font.html#method_setPaddingAmountExact"
-        },                {
-            "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Shared\\Font\u003A\u003AgetPaddingAmountExact\u0028\u0029",
-            "name": "getPaddingAmountExact",
-            "summary": "Get\u0020pad\u0020amount\u0020for\u0020exact\u0020in\u0020pixels\u003B\u0020or\u0020null\u0020if\u0020using\u0020best\u0020guess.",
-            "url": "classes/PhpOffice-PhpSpreadsheet-Shared-Font.html#method_getPaddingAmountExact"
         },                {
             "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Shared\\Font\u003A\u003AcalculateColumnWidth\u0028\u0029",
             "name": "calculateColumnWidth",
@@ -23081,11 +23111,6 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/PhpOffice-PhpSpreadsheet-Shared-Font.html#constant_CHARSET_FROM_FONT_NAME"
         },                {
-            "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Shared\\Font\u003A\u003A\u0024extraFontArray",
-            "name": "extraFontArray",
-            "summary": "Array\u0020that\u0020can\u0020be\u0020used\u0020to\u0020supplement\u0020FONT_FILE_NAMES\u0020for\u0020calculating\u0020exact\u0020width.",
-            "url": "classes/PhpOffice-PhpSpreadsheet-Shared-Font.html#property_extraFontArray"
-        },                {
             "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Shared\\Font\u003A\u003A\u0024autoSizeMethod",
             "name": "autoSizeMethod",
             "summary": "AutoSize\u0020method.",
@@ -23100,11 +23125,6 @@ Search.appendIndex(
             "name": "defaultColumnWidths",
             "summary": "List\u0020of\u0020column\u0020widths.\u0020Replaced\u0020by\u0020constant\u003B\npreviously\u0020it\u0020was\u0020public\u0020and\u0020updateable,\u0020allowing\nuser\u0020to\u0020make\u0020inappropriate\u0020alterations.",
             "url": "classes/PhpOffice-PhpSpreadsheet-Shared-Font.html#property_defaultColumnWidths"
-        },                {
-            "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Shared\\Font\u003A\u003A\u0024paddingAmountExact",
-            "name": "paddingAmountExact",
-            "summary": "Pad\u0020amount\u0020for\u0020exact\u0020in\u0020pixels\u003B\u0020use\u0020best\u0020guess\u0020if\u0020null.",
-            "url": "classes/PhpOffice-PhpSpreadsheet-Shared-Font.html#property_paddingAmountExact"
         },                {
             "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Shared\\IntOrFloat",
             "name": "IntOrFloat",
@@ -28090,6 +28110,11 @@ Search.appendIndex(
             "name": "getCap",
             "summary": "",
             "url": "classes/PhpOffice-PhpSpreadsheet-Style-Font.html#method_getCap"
+        },                {
+            "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Style\\Font\u003A\u003A__clone\u0028\u0029",
+            "name": "__clone",
+            "summary": "Implement\u0020PHP\u0020__clone\u0020to\u0020create\u0020a\u0020deep\u0020clone,\u0020not\u0020just\u0020a\u0020shallow\u0020copy.",
+            "url": "classes/PhpOffice-PhpSpreadsheet-Style-Font.html#method___clone"
         },                {
             "fqsen": "\\PhpOffice\\PhpSpreadsheet\\Style\\Font\u003A\u003AUNDERLINE_NONE",
             "name": "UNDERLINE_NONE",
